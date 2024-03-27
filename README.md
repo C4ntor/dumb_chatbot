@@ -1,1 +1,1 @@
-This project aims to offer a simple chatbot, that can reply constrained to a fixed list of answers. Specifically given a prompt from the user, will find the most similar prompt and return its reply as reply of the initial prompt.
+This project aims to offer a simple chatbot, that can reply constrained to a fixed list of answers. Given a prompt from the user, it will find the most similar prompt and return its reply as the reply of the initial prompt.
